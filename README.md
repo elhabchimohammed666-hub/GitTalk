@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # DevHub
 
 GitTalk is a developer-community starter with a React/Vite client and an Express,
